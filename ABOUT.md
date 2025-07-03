@@ -4,6 +4,14 @@ title: "About Me"
 permalink: /home/
 ---
 
+<nav>
+  <a href="/">Home</a>
+  <a href="/about/">About</a>
+  <a href="/projects/">Projects</a>
+  <a href="/resume.pdf">Resume</a>
+  <a href="/contact/">Contact</a>
+</nav>
+
 Hey, I'm Addi!
 
 I'm a passionate software developer specializing in building clean, scalable web applications and tools. I enjoy solving complex problems with elegant code and continuously learning new technologies.
