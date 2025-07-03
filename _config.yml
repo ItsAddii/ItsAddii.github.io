@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: Addi's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: "/style.css"
