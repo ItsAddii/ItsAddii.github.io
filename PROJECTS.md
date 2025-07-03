@@ -4,6 +4,14 @@ title: "My Projects"
 permalink: /projects/
 ---
 
+<nav>
+  <a href="/">Home</a>
+  <a href="/about/">About</a>
+  <a href="/projects/">Projects</a>
+  <a href="/resume.pdf">Resume</a>
+  <a href="/contact/">Contact</a>
+</nav>
+
 Hey! Here are a few of my projects that I've created!
 
 ## Echos & Ink
