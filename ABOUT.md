@@ -3,6 +3,7 @@ layout: page
 title: "About Me"
 permalink: /about/
 ---
+<link rel="stylesheet" href="/style.css">
 
 <nav>
   <a href="/">Home</a>
