@@ -4,6 +4,13 @@ title: "Contact"
 permalink: /contact/
 ---
 
+<nav>
+  <a href="/">Home</a>
+  <a href="/about/">About</a>
+  <a href="/projects/">Projects</a>
+  <a href="/resume.pdf">Resume</a>
+  <a href="/contact/">Contact</a>
+</nav>
 
 # Contact Me
 
