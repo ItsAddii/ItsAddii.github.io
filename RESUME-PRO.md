@@ -3,6 +3,8 @@ layout: page
 title: "Resume and Projects"
 permalink: /resume/
 ---
+<link rel="stylesheet" href="/style.css">
+
 
 <nav>
   <a href="/">Home</a>
