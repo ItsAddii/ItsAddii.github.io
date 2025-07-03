@@ -62,3 +62,24 @@ button[type="submit"] {
 button[type="submit"]:hover {
   background-color: #005fa3;
 }
+
+/* Navigation bar */
+nav {
+  background-color: #ffffff;
+  border-bottom: 1px solid #ddd;
+  padding: 1rem 0;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: #007acc;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
