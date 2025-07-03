@@ -3,6 +3,8 @@ layout: page
 title: "Welcome"
 permalink: /
 ---
+<link rel="stylesheet" href="/style.css">
+
 
 # Hi, I'm Addi 👋
 
