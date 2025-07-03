@@ -12,5 +12,5 @@ Explore my work:
 
 - [About Me](/about/)
 - [Projects](/projects/)
-- [Resume](/resume.pdf){: .button-link }
+- [Resume](/resume/)
 - [Contact](/contact/)
