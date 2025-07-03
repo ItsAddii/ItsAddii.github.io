@@ -3,6 +3,8 @@ layout: page
 title: "Contact"
 permalink: /contact/
 ---
+<link rel="stylesheet" href="/style.css">
+
 
 <nav>
   <a href="/">Home</a>
